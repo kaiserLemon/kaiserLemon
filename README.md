@@ -1,4 +1,9 @@
-### Hi there 👋
+I am Andy Torres, a M1 Computer Science student at Sorbonne University,
+with a strong passion for AI, decision analysis, data science, and related fields.
+My primary objective is to prepare for a thesis in these areas,
+and I have handpicked a collection of important links to help you better understand my journey in Tech. 😊
+
+
 
 <!--
 **kaiserLemon/kaiserLemon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
