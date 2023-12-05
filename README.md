@@ -1,7 +1,7 @@
-- I am Andy Torres, a M1 Computer Science student at Sorbonne University,
-with a strong passion for AI, decision analysis, data science, and related fields.
-My primary objective is to prepare for a thesis in these areas,
-and I have handpicked a collection of important links to help you better understand my journey in Tech. 😊
+- 👋 Hello, I am Andy Torres
+- 🎓 I'm currently in M1 Computer Science student at Sorbonne University
+- 👀 Deeply interested in AI, ML, DS, NLP.
+- 🥼 My primary objective is to prepare for a thesis in these areas
 
 
 
