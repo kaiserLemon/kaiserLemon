@@ -1,5 +1,5 @@
 - 👋 Hello, I am Andy Torres
-- 🎓 I'm currently in M1 Computer Science student at Sorbonne University
+- 🎓 I'm currently in M1 Computer Science at Sorbonne University
 - 👀 Deeply interested in AI, ML, DS, NLP
 - 🥼 My primary objective is to prepare for a thesis in these areas
 
