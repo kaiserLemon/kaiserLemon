@@ -2,6 +2,7 @@
 - 🎓 I'm currently in M1 Computer Science at Sorbonne University
 - 👀 Deeply interested in AI, ML, RL, DL
 - 🥼 My primary objective is to prepare for a thesis in these areas
+- My P-ANDROIDE project can be found on my partner's GitHub : https://github.com/PaulTiberiu/RL-Gradient-Visualization-Tool
 
 
 
