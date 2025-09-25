@@ -1,6 +1,6 @@
 - 👋 Hello, I am Andy Torres
-- 🎓 I'm currently in M2 Computer Science at Sorbonne University
-- 👀 Deeply interested in AI, Optimization, Operations Research, ML, RL
+- 🎓 I'm a Computer Science Graduate from Sorbonne University (Master Androide)
+- 👀 Deeply interested in Robotics, RL, Embedded AI, Optimization
 - 🥼 My primary objective is to prepare for a PHD in these areas
 - 💻 My P-ANDROIDE project can be found on my partner's GitHub : https://github.com/PaulTiberiu/RL-Gradient-Visualization-Tool
 
