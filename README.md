@@ -1,8 +1,6 @@
 - 👋 Hello, I am Andy Torres
-- 🎓 I'm a Computer Science Graduate from Sorbonne University (Master Androide)
+- 🎓 I'm a PhD student at Institut Polytechnique de Paris & CEA
 - 👀 Deeply interested in Robotics, RL, Embedded AI, Optimization
-- 🥼 My primary objective is to prepare for a PHD in these areas
-- 💻 My P-ANDROIDE project can be found on my partner's GitHub : https://github.com/PaulTiberiu/RL-Gradient-Visualization-Tool
 
 ---
 
