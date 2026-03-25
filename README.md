@@ -1,6 +1,6 @@
 - 👋 Hello, I am Andy Torres
-- 🎓 I'm a PhD student at Institut Polytechnique de Paris & CEA
-- 👀 Deeply interested in Robotics, RL, Embedded AI, Optimization
+- 🎓 I'm a PhD student at CEA Paris-Saclay & Polytechnic Institute of Paris
+- 👀 Deeply interested in Robotics, RL, Embedded AI, Optimization, Symbolic AI, Safety
 
 ---
 
