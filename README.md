@@ -1,6 +1,6 @@
 # Hi, I'm Andy Torres 👋
 
-**PhD Researcher** at the [Polytechnic Institute of Paris](https://www.ip-paris.fr/) & CEA Paris-Saclay
+**PhD Student** at the [Polytechnic Institute of Paris](https://www.ip-paris.fr/) & CEA Paris-Saclay
 
 My research focuses on **Explainable AI (XAI) for task planning under constraints in robotics** — bridging symbolic reasoning, optimization, and learning-based methods to make autonomous robotic systems more transparent and reliable.
 
@@ -34,7 +34,7 @@ My research focuses on **Explainable AI (XAI) for task planning under constraint
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kaiserLemon&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api?kaiserLemon=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?kaiserLemon=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
